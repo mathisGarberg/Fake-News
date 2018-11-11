@@ -1,0 +1,43 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Visit Norway",
+      "body": "You can paste your entire post in here, and yes it can get really really long.",
+      "description": "Trolltunga er et fjellutspring på 1100 moh, rundt 700 meter over Ringedalsvatnet, i Skjeggedal ved Tyssedal i Odda kommune, Hordaland fylke. ",
+      "author": "Mathis Garberg",
+      "image": "https://images.unsplash.com/photo-1504519560822-bed2d817f87f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=56d17a18c1081ea293ada2fab5f034a2&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+      "id": 2,
+      "title": "Trump, Putin og demonstranter",
+      "image": "https://images.unsplash.com/photo-1534598974068-2d51eda7628f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=bfbd378c20435ff9ce3fd1ff3cf14f3f&auto=format&fit=crop&w=1050&q=80",
+      "author": "Mathis Garberg",
+      "award": "Best article ever written",
+      "editor": "Craig Mount",
+      "genre": "search engine optimization",
+      "keywords": "seo sales b2b",
+      "datePublished": "2015-09-20",
+      "dateCreated": "2015-09-20",
+      "dateModified": "2015-09-20",
+      "description": "Søndag klokken 11 var det offisielt hundre år siden første verdenskrig var over. Begivenheter markeres med en fredsseremoni i Paris med en rekke statsledere til stede.",
+      "body": "Mandag møtes president Donald Trump og president Vladimir Putin til det planlagte toppmøte i Helsingfors i Finland. Flere tusen demonstranter samler seg til til sammen 16 forskjellige demonstrasjoner søndag og mandag."
+    },
+    {
+      "id": 3,
+      "title": "Stopper folk å lese papiravisa?",
+      "body": "This is a story about people stopping reading the paper.",
+      "description": "This is a story about people stopping reading the paper.",
+      "author": "Mathis Garberg",
+      "image": "https://images.unsplash.com/photo-1500331712001-a3648c2bea85?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f0abb8e95be8d85d00271c23ff725ea2&auto=format&fit=crop&w=1189&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Hvordan bli mer produktiv?",
+      "body": "Dette er en artikkel som handler om hvordan du blir med produktiv.",
+      "description": "Dette er en artikkel som handler om hvordan du blir med produktiv.",
+      "author": "Mathis Garberg",
+      "image": "https://images.unsplash.com/photo-1534120045191-89e4963980a7?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fc4d1c969a7e98da075ed6e49b8267f6&auto=format&fit=crop&w=1098&q=80"
+    }
+  ]
+}
